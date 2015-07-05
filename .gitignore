@@ -1,0 +1,6 @@
+texts/*
+templates/*log
+templates/*aux
+templates/*pdf
+templates/*latexmk
+templates/*fls
